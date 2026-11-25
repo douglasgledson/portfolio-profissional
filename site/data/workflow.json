@@ -1,0 +1,79 @@
+{
+  "rules": {
+    "manager": 1000,
+    "director": 10000,
+    "sla": 48
+  },
+  "items": [
+    {
+      "id": "AP-1001",
+      "title": "Manutenção de equipamentos / Equipment maintenance",
+      "amount": 1200,
+      "stage": "review",
+      "approval": "manager",
+      "age": 14
+    },
+    {
+      "id": "AP-1002",
+      "title": "Frete de materiais / Materials freight",
+      "amount": 375,
+      "stage": "review",
+      "approval": "finance",
+      "age": 56
+    },
+    {
+      "id": "AP-1003",
+      "title": "Serviço de limpeza / Cleaning service",
+      "amount": 2500,
+      "stage": "manager",
+      "approval": "manager",
+      "actor": "finance",
+      "age": 18
+    },
+    {
+      "id": "AP-1004",
+      "title": "Renovação de licença / License renewal",
+      "amount": 11300,
+      "stage": "director",
+      "approval": "director",
+      "actor": "manager",
+      "age": 7
+    },
+    {
+      "id": "AP-1005",
+      "title": "Suprimentos de escritório / Office supplies",
+      "amount": 1840,
+      "stage": "manager",
+      "approval": "manager",
+      "actor": "finance",
+      "age": 24
+    },
+    {
+      "id": "AP-1006",
+      "title": "Inspeção técnica / Technical inspection",
+      "amount": 400,
+      "stage": "approved",
+      "approval": "finance",
+      "actor": "finance",
+      "age": 32
+    },
+    {
+      "id": "AP-1007",
+      "title": "Reposição de ferramentas / Tool replacement",
+      "amount": 810,
+      "stage": "approved",
+      "approval": "finance",
+      "actor": "finance",
+      "age": 64
+    },
+    {
+      "id": "AP-1008",
+      "title": "Material de embalagem / Packaging supplies",
+      "amount": 920,
+      "stage": "returned",
+      "approval": "finance",
+      "actor": "finance",
+      "age": 15
+    }
+  ]
+}

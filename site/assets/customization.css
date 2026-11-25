@@ -1,0 +1,57 @@
+:root{
+  --primary:var(--accent);
+  --on-primary:var(--on-accent);
+  --menu-bg:var(--bg);
+  --menu-ink:var(--muted);
+  --card-radius:15px;
+  --card-shadow:none;
+  --line:color-mix(in srgb,var(--ink) 23%,var(--panel));
+  --muted:color-mix(in srgb,var(--ink) 78%,var(--bg));
+  --soft:color-mix(in srgb,var(--accent) 16%,var(--panel));
+  --glow:color-mix(in srgb,var(--accent) 12%,var(--bg));
+}
+:root[data-theme="light"]{
+  --line:color-mix(in srgb,var(--ink) 21%,var(--panel));
+  --muted:color-mix(in srgb,var(--ink) 78%,var(--bg));
+  --soft:color-mix(in srgb,var(--accent) 12%,var(--panel));
+  --glow:color-mix(in srgb,var(--accent) 10%,var(--bg));
+}
+.header{background:var(--menu-bg);color:var(--menu-ink)}
+.header nav,.header .brand{color:var(--menu-ink)}
+.header nav a:hover,.header nav a[aria-current]{color:var(--menu-ink);text-decoration:underline;text-underline-offset:.3em}
+.header nav{gap:clamp(.55rem,1.65vw,1.2rem)}
+.primary,.monogram,.skip{background:var(--primary);color:var(--on-primary)}
+.preview,.card,.metric,.form-box{border-radius:var(--card-radius)}
+.card,.form-box{box-shadow:var(--card-shadow)}
+.hero h1{font-size:clamp(2.55rem,5vw,4.6rem);overflow-wrap:anywhere}
+.brand-photo{width:39px;height:39px;object-fit:cover;border-radius:50%}
+.brand-logo{width:39px;height:39px;object-fit:contain}
+.about-content{display:flex;align-items:flex-start;gap:1.3rem;max-width:75ch}
+.professional-photo{width:clamp(88px,20vw,140px);aspect-ratio:1;object-fit:cover;border-radius:var(--card-radius)}
+.preserve-space{white-space:pre-line;overflow-wrap:anywhere}
+.case-section{margin-top:2.5rem;scroll-margin-top:1rem}
+.media-item{display:grid;justify-items:start;align-content:start;gap:.65rem;overflow-wrap:anywhere}
+.media-item video{width:100%;max-height:26rem;background:var(--bg);border-radius:var(--card-radius)}
+.media-item .case-image{margin:0}
+pre{max-width:100%;overflow:auto;background:var(--bg);padding:.85rem;border:1px solid var(--line);border-radius:.4rem}
+.platform-content section{margin:1.25rem 0}
+.platform-diagram{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,180px),1fr));gap:.7rem;list-style:none;margin:.75rem 0;padding:0}
+.platform-diagram li{border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:var(--card-radius);padding:.72rem;background:var(--panel)}
+.platform-diagram p{font-size:.92rem}
+.canvas-app{margin:1rem 0;padding:0 1rem 1rem;border:1px solid var(--line);border-radius:var(--card-radius);background:color-mix(in srgb,var(--panel) 55%,var(--bg))}
+.canvas-command{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:.65rem;margin:0 -1rem;padding:.72rem 1rem;background:var(--menu-bg);color:var(--menu-ink);border-radius:var(--card-radius) var(--card-radius) 0 0;border-bottom:1px solid var(--line)}
+.canvas-command p{color:inherit;font-size:.875rem}
+.canvas-command label{min-width:min(100%,180px)}
+.canvas-command select{background:var(--panel);color:var(--ink)}
+.canvas-name{display:flex;gap:.65rem;align-items:center}
+.canvas-icon{display:grid;place-items:center;width:36px;height:36px;border-radius:8px;background:var(--primary);color:var(--on-primary);font-size:1.25rem}
+.canvas-tabs{flex-wrap:wrap;padding:.55rem 0;margin-bottom:.25rem;gap:.4rem;border-bottom:1px solid var(--line);font-size:.875rem}
+.canvas-tabs button{padding:.3rem .55rem}
+.canvas-app .card,.canvas-app .form-box{border-radius:min(var(--card-radius),8px)}
+.canvas-app h2{font-size:clamp(1.3rem,2.5vw,1.65rem)}
+.canvas-status{display:inline-block;background:var(--soft);border-radius:5px;padding:.1rem .4rem}
+.canvas-status[data-stage="approved"]{border-left:3px solid var(--accent)}
+.canvas-status[data-stage="returned"]{border-left:3px solid var(--ink)}
+.services-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+@media(max-width:850px){.services-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:550px){.services-grid{grid-template-columns:1fr}.canvas-app{padding:0 .65rem .65rem}.canvas-command{margin:0 -.65rem}.about-content{flex-wrap:wrap}}

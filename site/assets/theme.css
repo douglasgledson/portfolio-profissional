@@ -1,0 +1,11 @@
+:root{
+  color-scheme:dark;
+  --font: "Segoe UI", system-ui, sans-serif;
+  --bg:#0b111c;--panel:#131d2c;--line:#2a394d;--ink:#edf3fb;--muted:#aab9cc;
+  --accent:#5ee2bf;--on-accent:#08241c;--soft:#163531;--glow:#12302e;--shadow:#0509118a;
+}
+:root[data-theme="light"]{
+  color-scheme:light;
+  --bg:#f4f7fb;--panel:#fff;--line:#cdd9e5;--ink:#16263a;--muted:#495e73;
+  --accent:#006451;--on-accent:#fff;--soft:#e1f3ed;--glow:#d8eee8;--shadow:#16354920;
+}

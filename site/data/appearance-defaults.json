@@ -1,0 +1,23 @@
+{
+  "dark": {
+    "primary": "#5ee2bf",
+    "secondary": "#131d2c",
+    "accent": "#5ee2bf",
+    "background": "#0b111c",
+    "text": "#edf3fb",
+    "menuBackground": "#0b111c",
+    "menuText": "#aab9cc"
+  },
+  "light": {
+    "primary": "#006451",
+    "secondary": "#ffffff",
+    "accent": "#006451",
+    "background": "#f4f7fb",
+    "text": "#16263a",
+    "menuBackground": "#f4f7fb",
+    "menuText": "#495e73"
+  },
+  "defaultTheme": "dark",
+  "font": "system",
+  "cards": "rounded"
+}

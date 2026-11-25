@@ -1,0 +1,523 @@
+{
+  "version": 1,
+  "profile": {
+    "name": "Douglas Gledson Monteiro",
+    "title": {
+      "pt": "Finanças, Business Intelligence e automação",
+      "en": "Finance, Business Intelligence and automation"
+    },
+    "intro": {
+      "pt": "Estruturo processos financeiros, automatizo rotinas e transformo dados em indicadores com Microsoft Power Platform, Excel e SAP.",
+      "en": "I design financial processes, automate routine work and turn data into indicators with Microsoft Power Platform, Excel and SAP."
+    },
+    "about": {
+      "pt": "Sou Analista Financeiro Sênior de Contas a Pagar, com experiência em processos financeiros corporativos, controles internos, fluxos de aprovação e acompanhamento de SLA. Meu trabalho combina levantamento de requisitos, estruturação de regras de negócio e desenvolvimento de soluções parametrizáveis. Também tenho experiência inicial em desenvolvimento web assistido por IA com Codex.",
+      "en": "I am a Senior Accounts Payable Financial Analyst with experience in corporate financial processes, internal controls, approval workflows and SLA tracking. My work combines requirements gathering, business rule design and configurable solutions. I also have early experience in AI-assisted web development with Codex."
+    },
+    "photo": "",
+    "logo": "",
+    "email": "",
+    "phone": "",
+    "linkedin": "",
+    "github": "",
+    "resume": {
+      "pt": "./assets/curriculos/curriculo-pt.pdf",
+      "en": ""
+    },
+    "networks": []
+  },
+  "experience": [
+    {
+      "title": {
+        "pt": "Analista Financeiro Sênior de Contas a Pagar",
+        "en": "Senior Accounts Payable Financial Analyst"
+      },
+      "description": {
+        "pt": "Processos de contas a pagar, validação financeira, controles e automação de rotinas.",
+        "en": "Accounts payable processes, financial validation, controls and routine automation."
+      },
+      "organization": "",
+      "period": {
+        "pt": "",
+        "en": ""
+      }
+    }
+  ],
+  "education": [
+    {
+      "title": {
+        "pt": "Administração",
+        "en": "Business Administration"
+      },
+      "institution": "",
+      "period": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    {
+      "title": {
+        "pt": "Licenciatura em Matemática",
+        "en": "Teaching degree in Mathematics"
+      },
+      "institution": "",
+      "period": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    {
+      "title": {
+        "pt": "Pós-graduação em Gestão e Tecnologia da Informação",
+        "en": "Postgraduate studies in Management and Information Technology"
+      },
+      "institution": "",
+      "period": {
+        "pt": "",
+        "en": ""
+      }
+    }
+  ],
+  "certifications": [],
+  "skills": [
+    {
+      "pt": "SAP",
+      "en": "SAP"
+    },
+    {
+      "pt": "SAP GUI Scripting",
+      "en": "SAP GUI Scripting"
+    },
+    {
+      "pt": "VBA",
+      "en": "VBA"
+    },
+    {
+      "pt": "Power Apps",
+      "en": "Power Apps"
+    },
+    {
+      "pt": "Power Automate",
+      "en": "Power Automate"
+    },
+    {
+      "pt": "Power BI",
+      "en": "Power BI"
+    },
+    {
+      "pt": "DAX",
+      "en": "DAX"
+    },
+    {
+      "pt": "Power Query",
+      "en": "Power Query"
+    },
+    {
+      "pt": "Excel",
+      "en": "Excel"
+    },
+    {
+      "pt": "SharePoint",
+      "en": "SharePoint"
+    }
+  ],
+  "services": [
+    {
+      "title": {
+        "pt": "Dashboards Power BI",
+        "en": "Power BI dashboards"
+      },
+      "description": {
+        "pt": "Modelagem de dados e visualização de indicadores para decisões gerenciais.",
+        "en": "Data modeling and metric visualization for management decisions."
+      }
+    },
+    {
+      "title": {
+        "pt": "Automação com Power Automate",
+        "en": "Power Automate workflows"
+      },
+      "description": {
+        "pt": "Automação de rotinas, notificações e movimentação de dados.",
+        "en": "Automate routine tasks, notifications and data handoffs."
+      }
+    },
+    {
+      "title": {
+        "pt": "Aplicativos Power Apps",
+        "en": "Power Apps solutions"
+      },
+      "description": {
+        "pt": "Aplicativos Canvas para solicitações e acompanhamento de processos.",
+        "en": "Canvas apps for requests and process tracking."
+      }
+    },
+    {
+      "title": {
+        "pt": "Automação em Excel e VBA",
+        "en": "Excel and VBA automation"
+      },
+      "description": {
+        "pt": "Automação de planilhas, validações e tarefas recorrentes.",
+        "en": "Automate spreadsheets, checks and recurring tasks."
+      }
+    },
+    {
+      "title": {
+        "pt": "Processos financeiros",
+        "en": "Financial processes"
+      },
+      "description": {
+        "pt": "Estruturação de rotinas, responsabilidades e controles financeiros.",
+        "en": "Structure financial workflows, responsibilities and controls."
+      }
+    },
+    {
+      "title": {
+        "pt": "Fluxos de aprovação",
+        "en": "Approval workflows"
+      },
+      "description": {
+        "pt": "Definição de alçadas, regras e histórico de decisões.",
+        "en": "Define approval levels, rules and decision history."
+      }
+    },
+    {
+      "title": {
+        "pt": "Bases SharePoint",
+        "en": "SharePoint data structures"
+      },
+      "description": {
+        "pt": "Organização de listas, relacionamentos e campos de negócio.",
+        "en": "Organize lists, relationships and business fields."
+      }
+    },
+    {
+      "title": {
+        "pt": "Indicadores e controles gerenciais",
+        "en": "Management metrics and controls"
+      },
+      "description": {
+        "pt": "Definição de métricas, critérios de acompanhamento e controles.",
+        "en": "Define metrics, monitoring criteria and controls."
+      }
+    },
+    {
+      "title": {
+        "pt": "Diagnóstico e melhoria de processos",
+        "en": "Process diagnosis and improvement"
+      },
+      "description": {
+        "pt": "Mapeamento de requisitos, fluxos e oportunidades de melhoria.",
+        "en": "Map requirements, workflows and improvement opportunities."
+      }
+    }
+  ],
+  "projects": [
+    {
+      "id": "ap-workflow",
+      "title": {
+        "pt": "AP Workflow Manager",
+        "en": "AP Workflow Manager"
+      },
+      "status": {
+        "pt": "Demonstração fictícia",
+        "en": "Fictional demo"
+      },
+      "summary": {
+        "pt": "Da abertura ao aceite final, acompanhe solicitações financeiras, alçadas e prazos.",
+        "en": "Follow financial requests, approval levels and deadlines from submission through final sign-off."
+      },
+      "context": {
+        "pt": "Solicitações de pagamento passam por conferência e aprovação antes de seguir para execução.",
+        "en": "Payment requests go through review and approval before execution."
+      },
+      "problem": {
+        "pt": "Filas dispersas dificultam identificar a próxima ação, o responsável e o prazo.",
+        "en": "Fragmented queues obscure who owns the next action and when it is due."
+      },
+      "goal": {
+        "pt": "Simular o controle operacional de ponta a ponta.",
+        "en": "Simulate end-to-end operational control."
+      },
+      "solution": {
+        "pt": "Fila central com validação financeira e aprovação sequencial por valor.",
+        "en": "A central queue with financial validation and sequential approval by amount."
+      },
+      "features": {
+        "pt": "Cadastro individual e em lote, pesquisa, filtros, SLA, histórico, notificações e matriz de alçadas.",
+        "en": "Single and batch entry, search, filters, SLA, history, notifications and approval matrix."
+      },
+      "architecture": {
+        "pt": "Aplicação estática com dados JSON e estado local por navegador.",
+        "en": "Static application with JSON data and browser-local state."
+      },
+      "competencies": {
+        "pt": "Mapeamento de processos, controles internos, alçadas e indicadores.",
+        "en": "Process mapping, internal controls, approval levels and metrics."
+      },
+      "benefits": {
+        "pt": "Maior visibilidade dos prazos e rastreabilidade das decisões.",
+        "en": "Better visibility into deadlines and decision history."
+      },
+      "current": {
+        "pt": "Demonstração web independente funcional.",
+        "en": "Working standalone web demonstration."
+      },
+      "limitations": {
+        "pt": "Perfis e notificações simulados. Sem autenticação, envio de mensagens ou conexão corporativa.",
+        "en": "Roles and notifications are simulated. No authentication, message delivery or corporate connection."
+      },
+      "tech": [
+        {
+          "pt": "Gestão financeira",
+          "en": "Financial management"
+        },
+        {
+          "pt": "Fluxos de aprovação",
+          "en": "Approval workflows"
+        },
+        {
+          "pt": "SLA",
+          "en": "SLA"
+        }
+      ],
+      "media": []
+    },
+    {
+      "id": "ap-analytics",
+      "title": {
+        "pt": "Accounts Payable Analytics",
+        "en": "Accounts Payable Analytics"
+      },
+      "status": {
+        "pt": "Demonstração fictícia",
+        "en": "Fictional demo"
+      },
+      "summary": {
+        "pt": "Analise vencimentos, pagamentos e previsão de desembolso a partir de uma carteira sintética.",
+        "en": "Explore due dates, payments and expected disbursements in a synthetic payables portfolio."
+      },
+      "context": {
+        "pt": "A gestão de contas a pagar precisa conhecer compromissos e pressão sobre o caixa.",
+        "en": "Accounts payable teams need visibility into liabilities and cash requirements."
+      },
+      "problem": {
+        "pt": "Totais isolados não mostram concentração por fornecedor nem a distribuição por vencimento.",
+        "en": "Aggregate totals hide supplier concentration and due-date patterns."
+      },
+      "goal": {
+        "pt": "Explorar a carteira por empresa, fornecedor, categoria e período.",
+        "en": "Explore payables by company, supplier, category and period."
+      },
+      "solution": {
+        "pt": "Painel web com métricas calculadas a partir de títulos fictícios e uma data de referência fixa.",
+        "en": "A web dashboard with metrics calculated from fictional invoices and a fixed reporting date."
+      },
+      "features": {
+        "pt": "Aging, valores em aberto e vencidos, pagamentos realizados e projeção mensal de desembolso.",
+        "en": "Aging, open and overdue balances, completed payments and monthly projected disbursements."
+      },
+      "architecture": {
+        "pt": "Base JSON com granularidade por título e roteiro para modelo dimensional.",
+        "en": "Invoice-level JSON dataset and a dimensional modeling guide."
+      },
+      "competencies": {
+        "pt": "Modelagem analítica, interpretação de indicadores e planejamento de desembolso.",
+        "en": "Analytical modeling, metrics interpretation and cash disbursement planning."
+      },
+      "benefits": {
+        "pt": "Visibilidade sobre concentração de despesas e obrigações futuras.",
+        "en": "Visibility into spending concentration and upcoming obligations."
+      },
+      "current": {
+        "pt": "Demonstração web com base sintética e documentação para montagem no Power BI.",
+        "en": "Working web demo with synthetic data and a guide for building a Power BI report."
+      },
+      "limitations": {
+        "pt": "Não há arquivo PBIX. A previsão usa vencimentos de títulos em aberto e não representa fluxo de caixa completo.",
+        "en": "No PBIX file is included. Forecasts use open invoice due dates and cover payables only."
+      },
+      "tech": [
+        {
+          "pt": "Contas a pagar",
+          "en": "Accounts payable"
+        },
+        {
+          "pt": "Aging",
+          "en": "Aging"
+        },
+        {
+          "pt": "DAX / Power Query",
+          "en": "DAX / Power Query"
+        }
+      ],
+      "media": []
+    },
+    {
+      "id": "printhub",
+      "title": {
+        "pt": "PrintHub 3D",
+        "en": "PrintHub 3D"
+      },
+      "status": {
+        "pt": "Projeto pessoal",
+        "en": "Personal project"
+      },
+      "summary": {
+        "pt": "Planejamento financeiro de impressão 3D com uma calculadora web de viabilidade.",
+        "en": "Financial planning for 3D printing with a web-based feasibility calculator."
+      },
+      "context": {
+        "pt": "Operações de impressão 3D precisam reconciliar custos unitários e retorno do investimento.",
+        "en": "3D printing operations need to reconcile unit costs and investment returns."
+      },
+      "problem": {
+        "pt": "Preço, volume, custos e investimento afetam a viabilidade de forma diferente.",
+        "en": "Price, volume, operating costs and initial investment affect feasibility in different ways."
+      },
+      "goal": {
+        "pt": "Testar hipóteses de preço e volume por meio de um cenário editável.",
+        "en": "Test price and volume assumptions in an editable scenario."
+      },
+      "solution": {
+        "pt": "Calculadora independente baseada em margem de contribuição e resultado mensal.",
+        "en": "A standalone calculator based on contribution margin and monthly profit."
+      },
+      "features": {
+        "pt": "A versão local contempla impressoras, materiais e investimentos. A demo cobre preço, margem, markup, ROI, payback e equilíbrio.",
+        "en": "The local version covers printers, materials and investments. The demo covers pricing, margin, markup, ROI, payback and break-even."
+      },
+      "architecture": {
+        "pt": "Calculadora estática com cenário salvo no navegador.",
+        "en": "Static calculator with a scenario saved in the browser."
+      },
+      "competencies": {
+        "pt": "Precificação, análise de viabilidade e planejamento financeiro.",
+        "en": "Pricing, feasibility analysis and financial planning."
+      },
+      "benefits": {
+        "pt": "Comparação de cenários antes de assumir custos fixos ou definir preços.",
+        "en": "Compare scenarios before committing to fixed costs or choosing a price."
+      },
+      "current": {
+        "pt": "Projeto pessoal local e calculadora web independente.",
+        "en": "Personal local project with an independent web calculator."
+      },
+      "limitations": {
+        "pt": "Modelo simplificado e valores fictícios. Impostos, depreciação e sazonalidade não são calculados.",
+        "en": "Simplified model with fictional values. Taxes, depreciation and seasonality are outside the calculation."
+      },
+      "tech": [
+        {
+          "pt": "Planejamento financeiro",
+          "en": "Financial planning"
+        },
+        {
+          "pt": "ROI",
+          "en": "ROI"
+        },
+        {
+          "pt": "Precificação",
+          "en": "Pricing"
+        }
+      ],
+      "media": []
+    },
+    {
+      "id": "procurement",
+      "title": {
+        "pt": "Procurement Management Concept",
+        "en": "Procurement Management Concept"
+      },
+      "status": {
+        "pt": "Conceito",
+        "en": "Concept"
+      },
+      "summary": {
+        "pt": "Modelo para organizar demandas de compras indiretas, negociações e aprovações.",
+        "en": "A model for indirect purchasing requests, negotiations and approvals."
+      },
+      "context": {
+        "pt": "Compras indiretas incluem diferentes categorias, países, moedas e responsáveis.",
+        "en": "Indirect procurement spans categories, countries, currencies and owners."
+      },
+      "problem": {
+        "pt": "Sem uma visão da carteira, a distribuição de demandas e a gestão de prazos ficam fragmentadas.",
+        "en": "Without portfolio visibility, assignment and deadline tracking become fragmented."
+      },
+      "goal": {
+        "pt": "Desenhar um fluxo parametrizável para acompanhar a demanda da abertura à aprovação.",
+        "en": "Design a configurable workflow from submission to approval."
+      },
+      "solution": {
+        "pt": "Fila por comprador e categoria, com registro da negociação e decisões por alçada.",
+        "en": "A queue by buyer and category with negotiation records and approval levels."
+      },
+      "features": {
+        "pt": "Solicitações, distribuição de compradores, categorias, negociação, alçadas, configuração por país, câmbio, indicadores e SLA.",
+        "en": "Requests, buyer assignment, categories, negotiation, approvals, country settings, currency conversion, metrics and SLA."
+      },
+      "architecture": {
+        "pt": "Arquitetura conceitual com entidades de demanda, comprador, categoria, país, moeda e aprovação.",
+        "en": "Conceptual entities for requests, buyers, categories, countries, currencies and approvals."
+      },
+      "competencies": {
+        "pt": "Levantamento de requisitos, regras de negócio e desenho de controles.",
+        "en": "Requirements gathering, business rules and control design."
+      },
+      "benefits": {
+        "pt": "Visibilidade da carga de trabalho e dos prazos por categoria e país.",
+        "en": "Visibility into workload and deadlines by category and country."
+      },
+      "current": {
+        "pt": "Conceito documentado para evolução futura.",
+        "en": "Documented concept for future development."
+      },
+      "limitations": {
+        "pt": "Conversão de moeda, permissões e integrações fazem parte do desenho proposto.",
+        "en": "Currency conversion, permissions and integrations are part of the proposed design."
+      },
+      "tech": [
+        {
+          "pt": "Process design",
+          "en": "Process design"
+        },
+        {
+          "pt": "Workflow",
+          "en": "Workflow"
+        },
+        {
+          "pt": "SLA",
+          "en": "SLA"
+        }
+      ],
+      "media": []
+    }
+  ],
+  "platformMedia": [],
+  "reports": [],
+  "appearance": {
+    "dark": {
+      "primary": "#5ee2bf",
+      "secondary": "#131d2c",
+      "accent": "#5ee2bf",
+      "background": "#0b111c",
+      "text": "#edf3fb",
+      "menuBackground": "#0b111c",
+      "menuText": "#aab9cc"
+    },
+    "light": {
+      "primary": "#006451",
+      "secondary": "#ffffff",
+      "accent": "#006451",
+      "background": "#f4f7fb",
+      "text": "#16263a",
+      "menuBackground": "#f4f7fb",
+      "menuText": "#495e73"
+    },
+    "defaultTheme": "dark",
+    "font": "system",
+    "cards": "rounded"
+  }
+}
